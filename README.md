@@ -11,7 +11,7 @@
 - [Questions](#questions)
 
 
-![Budget Tracker](public/assets/budget1.PNG)
+![Budget-Tracker](public/assets/budget1.PNG)
 
 ## Description
 
